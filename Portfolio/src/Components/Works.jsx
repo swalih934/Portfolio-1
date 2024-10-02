@@ -5,7 +5,7 @@ import'./work.css'
 function Works() {
   return (
     <>
-      <div  className='d-flex  justify-content-center container  text-center mt-5 row'>
+      <div  className='d-flex  justify-content-center gap-3   text-center mt-5 row'>
       <h1 className='mt-5' style={{ textAlign: 'center', fontWeight: "bold" }}>MY WORKS</h1>
 
         <Card className='border shadow col-sm-12 mt-4' style={{ width: '15rem' }}>
